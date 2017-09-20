@@ -53,6 +53,7 @@
 } 
 .navbar-doublerow.navbar-trans.afterscroll {
    top:-50px;
+    background-color: rgba(0,0,0,0.5);
 } 
 
 .flex-container {
@@ -62,14 +63,29 @@
 .flex-item {
 }
 /*text*/
+.text-white,.text-white-hover:hover{color:#FFF!important}
 .text-black,.text-black-hover:hover{color:#000!important}
 /*fontcolor*/
-.light-black {color:#000!important;background-color:#000!important}
+.light-white {color:#FFF!important;background-color:#FFF!important}
 
+.shadow-t{
+  box-shadow: 
+}
 body{
-   background: url("https://cdn.pixabay.com/photo/2017/01/10/18/04/marseille-1969810_960_720.jpg") no-repeat center center fixed; 
-      -webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
-      background-size: cover;
+   background-color: #fff;
+}
+
+hr.blue {
+  max-width: 50px;
+  border-width: 5px;
+  border-color: #4682B4; }
+
+hr.light {
+  border-color: white; }
+  
+  .shadow-t{
+       text-shadow: 7px 5px 1px rgba(0, 0, 0, 0.41);
+  }
+.img100{
+   width: 100px ;
 }
