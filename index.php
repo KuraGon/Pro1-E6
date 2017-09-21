@@ -84,4 +84,13 @@ Vestibulum sollicitudin mollis lacus, quis ullamcorper felis. Vestibulum magna d
         </div>
       </div>
     </section>
+     <section class="bg-primary" id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 mx-auto text-center">
+            <h2>YO JE SUIS LE FOOTER</h2>
+          </div>
+        </div>
+      </div>
+    </section>
 <?php include('./include/footer.inc.php'); ?>
