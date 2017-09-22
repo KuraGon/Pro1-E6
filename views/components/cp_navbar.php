@@ -13,7 +13,7 @@
               <a class="nav-link" href="?action=activite">Activité</a>
             </li>
               <li class="nav-item">
-              <a class="nav-link" href="?action=activite">Histoire</a>
+              <a class="nav-link" href="?action=histoire">Histoire</a>
             </li>
               <li class="nav-item">
               <a class="nav-link" href="?action=activite">Portfolio</a>
