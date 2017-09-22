@@ -13,7 +13,9 @@
 body{
    background-color: #fff;
 }
-
+.color-footer{
+  background-color: #c8c8c8;
+}
 hr.blue {
   max-width: 50px;
   border-width: 5px;
@@ -84,3 +86,31 @@ header.masthead-a .header-content {
             max-width: 80%;
             margin-right: auto;
             margin-left: auto; } }
+
+.btn-mblue {
+  color: #fff;
+  background-color: #396081;
+  border-color: #396081;
+}
+
+.btn-mblue:hover {
+  color: #fff;
+  background-color:#49789f;
+  border-color: #49789f;
+}
+
+.btn-mblue:focus, .btn-mblue.focus {
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5);
+}
+
+.btn-mblue.disabled, .btn-mblue:disabled {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-mblue:active, .btn-mblue.active,
+.show > .btn-mblue.dropdown-toggle {
+  background-color: #0069d9;
+  background-image: none;
+  border-color: #0062cc;
+}

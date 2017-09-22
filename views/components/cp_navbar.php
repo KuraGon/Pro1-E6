@@ -16,10 +16,10 @@
               <a class="nav-link" href="?action=histoire">Histoire</a>
             </li>
               <li class="nav-item">
-              <a class="nav-link" href="?action=activite">Portfolio</a>
+              <a class="nav-link" href="?action=portfolio">Portfolio</a>
             </li>
               <li class="nav-item">
-              <a class="nav-link" href="?action=activite">Event</a>
+              <a class="nav-link" href="?action=event">Event</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">Contact</a>

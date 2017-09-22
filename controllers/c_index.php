@@ -11,6 +11,9 @@ switch($action){
 		break;	
 	}
 	case 'activite':{
+		if ($_REQUEST['article']) {
+			include("c_activite.php");
+		}
 		include("./views/v_activite.php");
 		break;	
 	}
@@ -20,6 +23,10 @@ switch($action){
 	}
 	case 'histoire':{
 		include("./views/v_histoire.php");
+		break;	
+	}
+	case 'portfolio':{
+		include("./views/v_portfolio.php");
 		break;	
 	}
 }
