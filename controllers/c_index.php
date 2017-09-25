@@ -11,22 +11,23 @@ switch($action){
 		break;	
 	}
 	case 'activite':{
-		if ($_REQUEST['article']) {
-			include("c_activite.php");
-		}
 		include("./views/v_activite.php");
 		break;	
 	}
-	case 'contact':{
-		include("./views/v_accueil.php");
+	case 'portfolio':{
+		include("./views/v_portfolio.php");
 		break;	
 	}
 	case 'histoire':{
 		include("./views/v_histoire.php");
 		break;	
 	}
-	case 'portfolio':{
-		include("./views/v_portfolio.php");
+        case 'event':{
+		include("./views/v_event.php");
+		break;	
+	}
+        case 'contact':{
+		include("./views/v_contact.php");
 		break;	
 	}
 }
