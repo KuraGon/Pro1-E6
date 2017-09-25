@@ -1,10 +1,6 @@
- <section id="footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 mx-auto text-center">
-            <h2>YO JE SUIS LE FOOTER</h2>
-          </div>
-        </div>
+ <section id="footer" class="color-footer">
+      <div class="container ">
+        <span class="text-muted">© 2017, Genesix, All rights reserved.</span>
       </div>
     </section>
 </body>
