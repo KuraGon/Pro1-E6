@@ -13,6 +13,7 @@ switch($action){
 	case 'activite':{
 		if ($_REQUEST['article']) {
 			include("c_activite.php");
+			break;
 		}
 		include("./views/v_activite.php");
 		break;	

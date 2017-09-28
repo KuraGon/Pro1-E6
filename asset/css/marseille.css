@@ -113,4 +113,16 @@ header.masthead-a .header-content {
   background-color: #0069d9;
   background-image: none;
   border-color: #0062cc;
+
+}
+
+.mucemprix {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+
+.mucemprix th, .mucemprix td {
+    padding: 0.75rem;
 }
