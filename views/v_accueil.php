@@ -6,7 +6,7 @@
           <h1 class="shadow-t" id="homeHeading">Marseille une ville éblouissante.</h1>
           <hr class="blue">
         <br> <br> <br>
-          <a class="btn btn-mblue" href="#about">
+          <a class="btn bg-primary" href="#about">
         <img class="img100" src="./asset/images/scroll-down.gif"></a>
         </div>
       </div>
@@ -43,20 +43,14 @@ Vestibulum sollicitudin mollis lacus, quis ullamcorper felis. Vestibulum magna d
               <img class="img-circle" alt="140x140" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" style="width: 140px; height: 140px;">
               <h2>Heading</h2>
               <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-<<<<<<< HEAD
             <p><a class="btn bg-primary" href="#" role="button">View details »</a></p>
-=======
-            <p><a class="btn btn-mblue" href="#" role="button">View details »</a></p>
->>>>>>> aa74337eae41da7ad653fd5d207996c5250297b4
           </div><div class="col-md-6 text-center text-black">
               <img class="img-circle" alt="140x140" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" style="width: 140px; height: 140px;">
               <h2>Heading</h2>
               <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-<<<<<<< HEAD
+
             <p><a class="btn bg-primary " href="#" role="button">View details »</a></p>
-=======
-            <p><a class="btn btn-mblue " href="#" role="button">View details »</a></p>
->>>>>>> aa74337eae41da7ad653fd5d207996c5250297b4
+
           </div>
         </div>
       </div>

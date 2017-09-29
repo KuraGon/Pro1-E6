@@ -3,15 +3,7 @@
 $article = $_REQUEST['article'];
 
 switch ($article) {
-<<<<<<< HEAD
-	case '1':
-		include("./asset/.php");	
-		break;
-	case '2':
-		# code...
-			
-	}
-=======
+
 	case 'mucem':
 		include("./views/v_mucem.php");
 		break;
@@ -25,5 +17,4 @@ switch ($article) {
 		break;
 	}
 
->>>>>>> aa74337eae41da7ad653fd5d207996c5250297b4
 ?>

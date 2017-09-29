@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-<?php
-=======
+
 <?php 
->>>>>>> aa74337eae41da7ad653fd5d207996c5250297b4
     require_once('include/header.inc.php');
     require_once('views/components/cp_navbar.php');
     require_once('asset/lang_php/lang_fr.php');
