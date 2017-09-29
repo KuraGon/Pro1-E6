@@ -1,60 +1,3 @@
-.navbar-trans {
-  background-color: transparent;
-  border: none;
-  transition: top 1s ease;
-}
- 
-/*double row*/
-.navbar-doublerow > .navbar{
-  display: block; 
-  padding: 0px auto;
-  margin: 0px auto;
-  min-height: 25px;
-}
-.navbar-doublerow .nav{
-  padding: 0px auto;
-}
-.navbar-doublerow .dividline{
-  margin: 5px 100px;
-  padding-top: 1px;
-  background-color: inherit;
-}
-/*top nav*/
-.navbar-doublerow .navbar-top ul>li>a {
-  padding: 10px auto;
-  font-size: 12px;
-} 
-/*down nav*/
-.navbar-doublerow .navbar-down .navbar-brand {
-  padding: 0px auto;
-  float: left;
-  color: #fff;
-  font-size: 32px;
-}
-.navbar-doublerow .navbar-down ul>li>a{
-  font-size: 16px;
-  color: #fff;
-  transition: border-bottom .2s ease-in , transform .2s ease-in-out;
-}
-.navbar-doublerow .navbar-down ul>li>a:hover{
-  border-bottom: 1px solid #fff;
-  color: #fff;
-}
-.navbar-doublerow .navbar-down .dropdown{
-    padding: 5px;
-    color: #000;
-}
-.navbar-doublerow .navbar-down .dropdown ul>li>a,
-.navbar-doublerow .navbar-down .dropdown ul>li>a:hover{
-  color: #000;
-  border-bottom: none;
-}
-.navbar-doublerow.navbar-trans.afterscroll {
-} 
-.navbar-doublerow.navbar-trans.afterscroll {
-   top:-50px;
-} 
-
 .flex-container {
     display: flex;
     justify-content: space-between;
@@ -62,14 +5,124 @@
 .flex-item {
 }
 /*text*/
+.text-white,.text-white-hover:hover{color:#FFF!important}
 .text-black,.text-black-hover:hover{color:#000!important}
 /*fontcolor*/
-.light-black {color:#000!important;background-color:#000!important}
+.light-white {color:#FFF!important;background-color:#FFF!important}
 
 body{
-   background: url("https://cdn.pixabay.com/photo/2017/01/10/18/04/marseille-1969810_960_720.jpg") no-repeat center center fixed; 
-      -webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
-      background-size: cover;
+   background-color: #fff;
+}
+.color-footer{
+  background-color: #c8c8c8;
+}
+hr.blue {
+  max-width: 50px;
+  border-width: 5px;
+  border-color: #4682B4; }
+
+hr.light {
+  border-color: white; }
+  
+  .shadow-t{
+       text-shadow: 7px 5px 1px rgba(0, 0, 0, 0.41);
+  }
+.img100{
+   width: 40px ;
+}
+.topfirst{
+  padding-top: 15%;
+}
+
+.masthead-a{position: relative;
+  width: 100%;
+  min-height: auto;
+  text-align: center;
+  color: white;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-image: url('../images/c0.jpg');  
+}
+header.masthead-a .header-content {
+    position: relative;
+    width: 100%;
+    padding: 150px 15px 100px;
+    text-align: center; }
+    header.masthead-a .header-content .header-content-inner h1 {
+      font-size: 30px;
+      font-weight: 700;
+      margin-top: 0;
+      margin-bottom: 0;
+      text-transform: uppercase; }
+    header.masthead-a .header-content .header-content-inner hr {
+      margin: 30px auto; }
+    header.masthead-a .header-content .header-content-inner p {
+      font-size: 16px;
+      font-weight: 300;
+      margin-bottom: 50px;
+      color: rgba(255, 255, 255, 0.7); }
+  @media (min-width: 768px) {
+    header.masthead-a {
+      height: 40%;
+       }
+      header.masthead-a .header-content {
+        position: absolute;
+        top: 50%;
+        padding: 0 50px;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%); }
+        header.masthead-a .header-content .header-content-inner {
+          max-width: 1000px;
+          margin-right: auto;
+          margin-left: auto; }
+          header.masthead-a .header-content .header-content-inner h1 {
+            font-size: 50px; }
+          header.masthead-a .header-content .header-content-inner p {
+            font-size: 18px;
+            max-width: 80%;
+            margin-right: auto;
+            margin-left: auto; } }
+
+.btn-mblue {
+  color: #fff;
+  background-color: #396081;
+  border-color: #396081;
+}
+
+.btn-mblue:hover {
+  color: #fff;
+  background-color:#49789f;
+  border-color: #49789f;
+}
+
+.btn-mblue:focus, .btn-mblue.focus {
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5);
+}
+
+.btn-mblue.disabled, .btn-mblue:disabled {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-mblue:active, .btn-mblue.active,
+.show > .btn-mblue.dropdown-toggle {
+  background-color: #0069d9;
+  background-image: none;
+  border-color: #0062cc;
+
+}
+
+.mucemprix {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+
+.mucemprix th, .mucemprix td {
+    padding: 0.75rem;
 }
