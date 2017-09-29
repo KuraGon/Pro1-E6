@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce92d2fc-fb0c-40dc-acb0-10f85c42b7ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/route.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/router.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/css/bootstrap.css" afterPath="$PROJECT_DIR$/asset/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/css/marseille.css" afterPath="$PROJECT_DIR$/asset/css/marseille.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/footer.inc.php" afterPath="$PROJECT_DIR$/include/footer.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/header.inc.php" afterPath="$PROJECT_DIR$/include/header.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/components/cp_navbar.php" afterPath="$PROJECT_DIR$/views/components/cp_navbar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/v_accueil.php" afterPath="$PROJECT_DIR$/views/v_accueil.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/v_activite.php" afterPath="$PROJECT_DIR$/views/v_activite.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/v_histoire.php" afterPath="$PROJECT_DIR$/views/v_histoire.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/v_portfolio.php" afterPath="$PROJECT_DIR$/views/v_portfolio.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/asset/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="307">
@@ -47,9 +37,11 @@
       <file leaf-file-name="footer.inc.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/footer.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="126">
+              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.inc.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.inc.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/header.inc.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -124,7 +116,6 @@
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/views/components/cp_navbar.php" />
-        <option value="$PROJECT_DIR$/include/footer.inc.php" />
         <option value="$PROJECT_DIR$/asset/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/asset/css/marseille.css" />
         <option value="$PROJECT_DIR$/views/v_accueil.php" />
@@ -132,6 +123,7 @@
         <option value="$PROJECT_DIR$/views/v_histoire.php" />
         <option value="$PROJECT_DIR$/views/v_portfolio.php" />
         <option value="$PROJECT_DIR$/include/header.inc.php" />
+        <option value="$PROJECT_DIR$/include/footer.inc.php" />
       </list>
     </option>
   </component>
@@ -142,7 +134,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="40" />
     <option name="width" value="1400" />
@@ -241,15 +233,15 @@
       <workItem from="1506353549836" duration="677000" />
       <workItem from="1506425676622" duration="6000" />
       <workItem from="1506629141392" duration="659000" />
-      <workItem from="1506689385531" duration="3445000" />
+      <workItem from="1506689385531" duration="5012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4822000" />
+    <option name="totallyTimeSpent" value="6389000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -434,22 +426,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asset/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="5261" column="27" lean-forward="false" selection-start-line="5261" selection-start-column="27" selection-end-line="5261" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/include/footer.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/asset/css/marseille.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
@@ -493,7 +469,25 @@
     <entry file="file://$PROJECT_DIR$/include/header.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/footer.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="5261" column="27" lean-forward="false" selection-start-line="5261" selection-start-column="27" selection-end-line="5261" selection-end-column="27" />
           <folding />
         </state>
       </provider>
