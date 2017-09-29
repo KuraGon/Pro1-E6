@@ -14,7 +14,10 @@ body{
    background-color: #fff;
 }
 .color-footer{
-  background-color: #c8c8c8;
+  background-color: #3087b2;
+}
+.border_header{
+  border-bottom: 2px solid white;
 }
 hr.blue {
   max-width: 50px;
@@ -113,4 +116,18 @@ header.masthead-a .header-content {
   background-color: #0069d9;
   background-image: none;
   border-color: #0062cc;
+}
+
+.nav-link-blue {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #3CB3EF;
+}
+
+.nav-link-blue:focus, .nav-link-blue:hover {
+  text-decoration: none;
+}
+
+.nav-link-blue.disabled {
+    color: #3CB3EF;
 }

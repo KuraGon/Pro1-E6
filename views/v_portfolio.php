@@ -1,5 +1,5 @@
 
-     <header class="masthead-a">
+     <header class="masthead-a border_header">
     </header>
 
 <section class="bg-primary" id="services">
