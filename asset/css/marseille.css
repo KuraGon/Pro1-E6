@@ -14,10 +14,14 @@ body{
    background-color: #fff;
 }
 .color-footer{
+<<<<<<< HEAD
   background-color: #3087b2;
 }
 .border_header{
   border-bottom: 2px solid white;
+=======
+  background-color: #c8c8c8;
+>>>>>>> aa74337eae41da7ad653fd5d207996c5250297b4
 }
 hr.blue {
   max-width: 50px;
@@ -116,6 +120,7 @@ header.masthead-a .header-content {
   background-color: #0069d9;
   background-image: none;
   border-color: #0062cc;
+<<<<<<< HEAD
 }
 
 .nav-link-blue {
@@ -131,3 +136,18 @@ header.masthead-a .header-content {
 .nav-link-blue.disabled {
     color: #3CB3EF;
 }
+=======
+
+}
+
+.mucemprix {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+
+.mucemprix th, .mucemprix td {
+    padding: 0.75rem;
+}
+>>>>>>> aa74337eae41da7ad653fd5d207996c5250297b4

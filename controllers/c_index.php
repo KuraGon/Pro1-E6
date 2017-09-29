@@ -13,6 +13,10 @@ switch($action){
 	case 'activite':{
 		if ($_REQUEST['article']) {
 			include("c_activite.php");
+<<<<<<< HEAD
+=======
+			break;
+>>>>>>> aa74337eae41da7ad653fd5d207996c5250297b4
 		}
 		include("./views/v_activite.php");
 		break;	
